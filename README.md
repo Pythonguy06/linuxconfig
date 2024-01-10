@@ -1,4 +1,4 @@
-I use i3 wm.
+I use dwm.
   
   -ytdl for youtube playback(yes my laptop sucks)
   
